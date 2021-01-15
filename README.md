@@ -10,5 +10,6 @@ I am a "townie", and I'm from Maryville, Missouri and I've lived here all of my 
 I would like to be a software engineer for some company, my top 4 would be Cerner, InTouch Solutions, Net Smart, or Garmin.
 
 ## Links
-LinkedIn: https://www.linkedin.com/in/chase-staples-40909816b/ (Links to an external site.)
+LinkedIn: https://www.linkedin.com/in/chase-staples-40909816b/
+
 GitHub: https://github.com/ChaseStaples
